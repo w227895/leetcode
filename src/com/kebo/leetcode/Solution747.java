@@ -21,4 +21,5 @@ public class Solution747 {
         return index;
     }
 
+
 }
